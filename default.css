@@ -18,6 +18,29 @@ body {
   height: 100%;
 }
 
+/* Email and phone icons */
+#email-phone-icons a:hover {
+  color: #5170DD;
+  transition: all .3s ease;
+}
+
+#email-phone-icons a {
+  transition: all .3s ease;
+}
+
+#email-phone-icons {
+  position: absolute;
+  top: 3.5%;
+  right: 5%;
+  letter-spacing: .8px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+#phone {
+  margin-right: 20px;
+}
+
 #overlay {
   background-color: rgba(61,70,100,.86);
   height: 100%;
