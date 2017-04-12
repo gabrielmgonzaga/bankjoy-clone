@@ -1,4 +1,4 @@
-# Bankjoy-clone
+# Bankjoy clone
 
 This is a landing page clone of the website www.bankjoy.com created on 11/17/16. It was made with no frameworks or libraries utilizing only `HTML` and `CSS`.
 
