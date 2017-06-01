@@ -1,6 +1,7 @@
 # Bankjoy clone
 
-This is a landing page clone of the website www.bankjoy.com. It was built with no frameworks or libraries utilizing only `HTML` and `CSS`.
+- This is a landing page clone of the website www.bankjoy.com. 
+- It was built with no frameworks or libraries utilizing only `HTML` and `CSS`.
 
 ___
 
